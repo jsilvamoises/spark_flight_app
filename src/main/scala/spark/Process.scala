@@ -46,7 +46,7 @@ object Process {
       """).show()
       
       */
-        sql.sqlContext.sql("""
+      sql.sqlContext.sql("""
       select 
           MES,MAX(PRECO_MEDIO_REVENDA) AS PRECO_MAXIMO, 
           MIN(PRECO_MEDIO_REVENDA) AS PRECO_MINIMO 
