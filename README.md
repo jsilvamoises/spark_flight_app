@@ -1,4 +1,4 @@
-# spark_flight_app
+# Spark Exemplo 
 Aplicativo desenvolvido para a disciplina de Processamento Massivo (Pós Graduação de BI &amp; Big Data)
 
 ## Como executar esse projeto
